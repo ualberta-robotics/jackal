@@ -2,6 +2,9 @@
 Changelog for package jackal_description
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+
 0.8.9 (2024-02-14)
 ------------------
 * Fixed origin pose values.

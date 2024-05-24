@@ -2,6 +2,13 @@
 Changelog for package jackal_control
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* Removed Z position
+* Mod: Set 'publish_cmd' param to true in jackal_control/config
+  - With this change the diff drive controller will output the final cmd_vel to /jackal_velocity_controller/cmd_vel_out after any filters are applied (e.g., speed/acceleration limits)
+* Contributors: Luis Camero, Stephen Phillips
+
 0.8.9 (2024-02-14)
 ------------------
 
