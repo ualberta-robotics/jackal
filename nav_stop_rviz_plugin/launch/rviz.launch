@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<launch>
+  <node name="rviz" pkg="rviz" type="rviz" args="-s '' -d $(find nav_stop_rviz_plugin)/config/gui.rviz" output="screen" required="true"/>
+</launch>

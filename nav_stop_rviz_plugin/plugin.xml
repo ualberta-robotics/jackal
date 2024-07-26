@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<library path="lib/libnav_stop_rviz_plugin">
+  <class name="nav_stop_rviz_plugin/NavStopRvizPanel"
+         type="nav_stop_rviz_plugin::NavStopRvizPanel"
+         base_class_type="rviz::Panel">
+    <description>
+      A simple RViz panel
+    </description>
+  </class>
+</library>
